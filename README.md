@@ -1,2 +1,2 @@
-# bombsquad
+# Bombsquad
 Projeto de Software
