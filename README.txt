@@ -1,2 +1,2 @@
 # FreeMarket
-// Projeto de Softwa
+// Projeto de Software
